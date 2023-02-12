@@ -1,0 +1,18 @@
+.logo>img{
+    width: 100px;
+}
+
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333333;
+    color:#fff;
+}
+.navItems>ul{
+    display: flex;
+}
+
+.navItems>ul>li{
+    padding: 10px;
+}
